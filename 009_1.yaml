@@ -3,9 +3,10 @@ my:
     cake:
       composition: [dough, cream]
       dough:
-       - eggs
-       - sugar
-       - flour
+       - eggs1
+       - рр
+       - sugar2
+       - flour3
       cream:
         - sugar
         - milk
